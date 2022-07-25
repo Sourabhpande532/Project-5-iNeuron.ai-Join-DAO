@@ -16,4 +16,4 @@ Here's the Live Deployed Website ![Project 5](https://img.shields.io/badge/Proje
 
 ***
 
-## This project took around ** 2 Hour** to complete.
+## This project took around **2 Hour** to complete.
