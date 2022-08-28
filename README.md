@@ -1,21 +1,42 @@
-## Project 5 - HTML And CSS
+# Assignment-5 HTML And CSS
 By **Saurabh**
 
-Here's the Live Deployed Website
 
- ![Project 5](https://img.shields.io/badge/Project-5-blueviolet)
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT----lightgrey)
+![Project 5](https://img.shields.io/badge/Project-5-grey)
 
-## [GO LIVE](https://join-dao-ineuron.netlify.app/)
+![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
+
+![HTML & CSS-Assighnment-project](https://img.shields.io/badge/No--Responsive-Ineuron--Assignment-blue)
+ 
+
+# [GO LIVE](https://join-dao-ineuron.netlify.app/)
 
  ![complete Website](./assets/5.png)
 
- ## What I learned from this Project?
+ ## Technologies used
 
-- I learned How we can Apply color at Background Image & How it makes more Dyanamic That's a Think i Learned a lot.
+> HTML
+
+> CSS  
+---
+## **Skill Gained in the project**
+- I learned How we can apply color at background Image & How it makes more Dyanamic That's a Thing i Learned a lot.
 
 - I also learned **margin,Padding**
-**Posining**
+**Posining**.
 
-***
 
-## This project took around **2 Hour** to complete.
+# Time taken to finish this project
+
+  **2:40 Hour** hour to complete it.
+---
+
+
+
+
+
+
+
+
